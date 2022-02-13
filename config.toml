@@ -1,5 +1,5 @@
 baseURL = "https://simonleandergrimm.github.io"
-title = "Website Name"
+title = "Simon Grimm"
 theme = "etch"
 languageCode = "en-US"
 enableInlineShortcodes = true
@@ -8,8 +8,8 @@ pygmentsUseClasses = true
 
 [params]
   description = "Your site description"
-  copyright = "Copyright © 2020 Your Name"
-  dark = "auto"
+  copyright = "Copyright © 2022 Simon Grimm"
+  dark = "on"
   highlight = true
 
 [menu]
@@ -17,7 +17,7 @@ pygmentsUseClasses = true
     identifier = "posts"
     name = "posts"
     title = "posts"
-    url = "/"
+    url = "/posts/"
     weight = 10
 
   [[menu.main]]
@@ -27,9 +27,13 @@ pygmentsUseClasses = true
     url = "/about/"
     weight = 20
 
+
 [permalinks]
   posts = "/:title/"
 
 [markup.goldmark.renderer]
   # Allows HTML in Markdown
   unsafe = true
+
+  [markup.tableOfContents]
+    ordered = true
