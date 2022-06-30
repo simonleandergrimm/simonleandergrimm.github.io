@@ -1,27 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Simon Grimm</title><link>https://simonleandergrimm.github.io/posts/</link><description>Recent content in Posts on Simon Grimm</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><atom:link href="https://simonleandergrimm.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>A test blog post</title><link>https://simonleandergrimm.github.io/a-test-blog-post/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://simonleandergrimm.github.io/a-test-blog-post/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et libero et tortor tristique consequat. In ornare, magna a auctor ultrices, nunc risus convallis lectus, vel dictum urna est id odio. Donec nec orci pellentesque, scelerisque mauris sed, lobortis nisi. Etiam malesuada eget metus a tincidunt. Donec condimentum faucibus tristique. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec massa sit amet neque tempus pellentesque a ac mi. Fusce lacus quam, sagittis ut blandit sit amet, semper eget diam. Aliquam pulvinar, enim ut vulputate commodo, diam ante commodo felis, in condimentum odio sem vel neque. Etiam laoreet porttitor varius. In convallis ligula viverra orci mollis, sit amet feugiat quam pharetra. Maecenas ornare massa a sapien elementum consectetur. Pellentesque tincidunt massa nec ex tincidunt, sit amet ultrices nulla consectetur.&lt;/p>
-&lt;p>Sed efficitur urna mauris, vel lacinia risus scelerisque et. Phasellus pulvinar nunc id ipsum volutpat, non mollis mauris mattis. Cras sit amet quam efficitur, sodales elit in, pellentesque nunc. Quisque accumsan quam in quam gravida tincidunt. Etiam vulputate, elit sed auctor pretium, lacus tortor suscipit odio, a ullamcorper sem nunc sit amet turpis. Sed ut lacus quam. Sed ac dapibus erat. Donec id tristique nisi. Morbi porttitor arcu sed aliquet porttitor. Quisque ornare justo vel iaculis tristique. Nullam varius tempor odio, nec pharetra tellus sodales a.&lt;/p>
-&lt;p>Fusce tincidunt lacinia pulvinar. Integer efficitur purus est, vitae consequat tortor volutpat vel. Maecenas gravida felis ex, ut vehicula nibh blandit id. Aenean aliquam nulla id massa egestas, nec efficitur sem feugiat. Praesent fermentum purus nec feugiat iaculis. Pellentesque viverra velit quis maximus lobortis. Sed sed tortor sed leo imperdiet elementum vitae nec odio.&lt;/p>
-&lt;p>Ut a nulla ut purus pellentesque condimentum. Morbi non enim felis. Morbi at hendrerit sapien. In viverra laoreet viverra. Donec sed auctor massa. Curabitur vitae turpis eu sapien pulvinar venenatis a auctor orci. Aenean vehicula arcu non lacus congue, in aliquet velit rhoncus. Proin sem tortor, varius ac lacinia scelerisque, commodo at risus. Nullam non hendrerit nunc.&lt;/p>
-&lt;p>Duis aliquam sit amet lectus vel mollis. Suspendisse sed ornare massa. Sed magna augue, cursus faucibus lacinia eget, tincidunt et nulla. Vivamus vehicula arcu a auctor porta. Donec pellentesque elit et odio vestibulum accumsan. Praesent et vestibulum enim. Morbi dapibus arcu turpis, et ultrices mi commodo ut. In id facilisis enim. Praesent velit libero, finibus ut placerat at, gravida vel odio. Quisque fermentum pellentesque porttitor.&lt;/p></description></item><item><title>Fermi Poker - Instructions</title><link>https://simonleandergrimm.github.io/fermi-poker-instructions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://simonleandergrimm.github.io/fermi-poker-instructions/</guid><description>&lt;h1 id="fermi-poker">Fermi Poker&lt;/h1>
-&lt;p>I&amp;rsquo;ve recently discovered the joy of playing Fermi Poker, but couldn&amp;rsquo;t find online instructions that I could point others to. Hence, here goes a small description. In a nutshell, Fermi poker consists of making Fermi estimates (e.g., guesses about hard but fun questions—such as ‘How many Avocadoes are produced worldwide per year”, or “How many kilometres of road are there in China”) and updating your confidence in those estimates by folding, passing or increasing your bet in the light of new evidence.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Simon Grimm</title><link>http://simongrimm.com/posts/</link><description>Recent content in Posts on Simon Grimm</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><atom:link href="http://simongrimm.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Fermi Poker - Instructions</title><link>http://simongrimm.com/fermi-poker-instructions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://simongrimm.com/fermi-poker-instructions/</guid><description>&lt;p>I&amp;rsquo;ve recently discovered the joy of playing Fermi Poker, but couldn&amp;rsquo;t find online instructions that I could point others to. Hence, here goes a small description. In a nutshell, Fermi poker consists of making Fermi estimates (e.g., guesses about hard but fun questions—such as ‘How many Avocadoes are produced worldwide per year”, or “How many kilometres of road are there in China”) and updating your confidence in those estimates by folding, passing or increasing your bet in the light of new evidence.&lt;/p>
 &lt;p>If you&amp;rsquo;re unfamiliar with Fermi estimates you can find a &lt;a href="https://en.wikipedia.org/wiki/Fermi_problem">great explainer here&lt;/a>. In a nutshell, you try to get at order of magnitude estimates of fun questions, such as:&lt;/p>
 &lt;p>How many bees are there on Planet Earth?
 How much water flows through all rivers in the world, per minute?&lt;/p>
 &lt;h3 id="preparation">Preparation&lt;/h3>
 &lt;p>You need a minimum of three individuals to play, six people being optimal.&lt;/p>
 &lt;p>Before starting to play, each player needs to come up with a question (Q), an answer (A) and two hints (H1 &amp;amp; H2). The answer should be based on reputable sources, e.g., Our World In Data, Statista, or Wikipedia.&lt;/p>
-&lt;p>You can find resources for good questions in this &lt;a href="https://chanamessinger.com/blog/fermi-problems">blog post by Chana Messinger&lt;/a>.&lt;/p>
+&lt;p>You can find resources for good questions in this &lt;a href="https://chanamessinger.com/blog/fermi-problems">blog post by Chana Messinger&lt;/a>. There&amp;rsquo;s also a great Twitter account, publicly solving Fermi estimates every day, with the ingenious name &lt;a href="https://twitter.com/botec_horseman">BOTEC Horseman&lt;/a>.&lt;/p>
 &lt;p>Two examples:&lt;/p>
-&lt;h2 id="example-1">Example 1&lt;/h2>
+&lt;h4 id="example-1">Example 1&lt;/h4>
 &lt;p>*Q: How many kilometres of paved roads are there in China?&lt;/p>
-&lt;p>A: X km&lt;/p>
-&lt;p>H1: There are X km of road in Germany.&lt;/p>
-&lt;p>H2: In Vietnam there are X km of road per inhabitant.*&lt;/p>
-&lt;h2 id="example-2">Example 2&lt;/h2>
-&lt;p>*Q: How many transistors were there in all iPhone 12s, sold in 2021?&lt;/p>
-&lt;p>A: X transistors&lt;/p>
-&lt;p>H1: There were X transistors in the iPhone 5, sold in 20XX&lt;/p>
-&lt;p>H2: Global iPhone 12 sales in Europe, in 2021, were XXX*&lt;/p>
+&lt;p>A: 5’200’000 km&lt;/p>
+&lt;p>H1: There are 664’480 km of road in Germany.&lt;/p>
+&lt;p>H2: Vietnam has 6km of road per 1000 inhabitants. (Total Road: 570’448, Total inhabitants: 97’000’000)*&lt;/p>
+&lt;h4 id="example-2">Example 2&lt;/h4>
+&lt;p>*Q: How many nuclear power plants, similar to &lt;a href="https://en.wikipedia.org/wiki/Hinkley_Point_C_nuclear_power_station">Hickley Point C&lt;/a> would you need to produce as much power as the sun?&lt;/p>
+&lt;p>A: 1.089375 × 10^17 nuclear power plants.&lt;/p>
+&lt;p>H1: Hickley Point C will produce 3,200,000,000 Watts.&lt;/p>
+&lt;p>H2: The sun produces less than 10^30 Watts*&lt;/p>
 &lt;p>You will also need poker chips.&lt;/p>
 &lt;p>Armed with one question each and a way to allocate chips you can start playing.&lt;/p>
 &lt;h3 id="gameplay">Gameplay&lt;/h3>
@@ -51,7 +46,13 @@ How much water flows through all rivers in the world, per minute?&lt;/p>
 &lt;/ol>
 &lt;p>The game then commences, until all questions were asked.&lt;/p>
 &lt;h3 id="why-should-you-play-this">Why should you play this&lt;/h3>
-&lt;p>&lt;strong>Apart from being fun&lt;/strong>, Fermi Poker improves two skills.&lt;/p>
-&lt;p>First, it forces one to quickly juggle and combine order of magnitude estimates. This could be useful in quickly evaluating numeric claims by others.
-Second, one learns to update one&amp;rsquo;s belief in an initial estimate.
-Finally, you learn a lot of &lt;strong>fun facts&lt;/strong>.&lt;/p></description></item></channel></rss>
+&lt;p>&lt;strong>Apart from being fun&lt;/strong>, Fermi Poker improves two skills:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>It forces one to quickly juggle and combine order of magnitude estimates. This is useful in quickly evaluating numeric claims by others.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>You also learn to quickly update your beliefs in the light of new evidence.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Finally, you learn a lot of fun facts about the world!&lt;/p></description></item></channel></rss>
