@@ -39,17 +39,18 @@ H2: Vietnam has 6km of road per 1000 inhabitants. (Total Road: 570’448, Total 
 
 #### Example 2 - Replacing the entire sun with nuclear power
 
-*Q: How many nuclear power plants, similar to [Hickley Point C](https://en.wikipedia.org/wiki/Hinkley_Point_C_nuclear_power_station) would you need to produce as much power as the sun?
+Q: How many nuclear power plants, similar to [Hickley Point C](https://en.wikipedia.org/wiki/Hinkley_Point_C_nuclear_power_station) would you need to produce as much power as the sun?
 
 A: 1.089375 × 10^17 nuclear power plants.
 
 H1: Hickley Point C will produce 3,200,000,000 Watts.
 
-H2: The sun produces less than 10^30 Watts*
+H2: The sun produces less than 10^30 Watts
 
-You will also need poker chips.
 
-Armed with one question each and a way to allocate chips you can start playing.
+Lastly, you will also need poker chips, in the absence of physical chips you can use [this website](https://pokerchips.io/).
+
+Armed with one question each and a way to allocate chips you can start playing!
 
 ### Gameplay
 
@@ -57,7 +58,7 @@ One round is always based on one question. The question's author doesn't play. F
 
  1. The authors poses the question. All other players come up with an answer, sending their estimate to the author, e.g., via Signal. Players are not allowed to use the internet or calculator to arrive at the answer.
 
- 2. Going counter-clockwise, the first player always gives X, the second player gives Y. Following this, players can bet as much as they want.
+ 2. Going counter-clockwise, the first player always gives a small blind (e.g., 25), the second player gives a big blind (e.g., 50). Following this, players can bet as much as they want, having to match the highest bet just like in normal poker.
 
  3. After everyone made their first bet, it is the question author's turn again, giving the first hint.
 
