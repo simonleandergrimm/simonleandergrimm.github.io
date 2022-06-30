@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Simon Grimm</title><link>https://simongrimm.com/posts/</link><description>Recent content in Posts on Simon Grimm</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><atom:link href="https://simongrimm.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Fermi Poker - Instructions</title><link>https://simongrimm.com/fermi-poker-instructions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://simongrimm.com/fermi-poker-instructions/</guid><description>&lt;p>I&amp;rsquo;ve recently discovered the joy of playing Fermi Poker, but couldn&amp;rsquo;t find online instructions that I could point others to. Hence, here goes a small description. In a nutshell, Fermi poker consists of making Fermi estimates (e.g., guesses about hard but fun questions—such as ‘How many Avocadoes are produced worldwide per year”, or “How many kilometres of road are there in China”) and updating your confidence in those estimates by folding, passing or increasing your bet in the light of new evidence.&lt;/p>
-&lt;p>If you&amp;rsquo;re unfamiliar with Fermi estimates you can find a &lt;a href="https://en.wikipedia.org/wiki/Fermi_problem">great explainer here&lt;/a>. In a nutshell, you try to get at order of magnitude estimates of fun questions, such as:&lt;/p>
-&lt;p>How many bees are there on Planet Earth?
-How much water flows through all rivers in the world, per minute?&lt;/p>
+&lt;p>If you&amp;rsquo;re unfamiliar with Fermi estimates you can find a &lt;a href="https://en.wikipedia.org/wiki/Fermi_problem">great explainer here&lt;/a>. In brief you try to get at order of magnitude estimates of fun questions, such as:&lt;/p>
+&lt;ul>
+&lt;li>How many bees are there on Planet Earth?&lt;/li>
+&lt;li>How much water flows through all rivers in the world, per minute?&lt;/li>
+&lt;/ul>
 &lt;h3 id="preparation">Preparation&lt;/h3>
 &lt;p>You need a minimum of three individuals to play, six people being optimal.&lt;/p>
-&lt;p>Before starting to play, each player needs to come up with a question (Q), an answer (A) and two hints (H1 &amp;amp; H2). The answer should be based on reputable sources, e.g., Our World In Data, Statista, or Wikipedia.&lt;/p>
+&lt;p>Before starting to play, each player needs to come up with a question (Q), an answer (A) and two hints (H1 &amp;amp; H2). The answer should be based on reputable sources, e.g., &lt;a href="https://ourworldindata.org/">Our World In Data&lt;/a>, &lt;a href="https://www.statista.com/">Statista&lt;/a>, or &lt;a href="https://wikipedia.org/">Wikipedia&lt;/a>.&lt;/p>
 &lt;p>You can find resources for good questions in this &lt;a href="https://chanamessinger.com/blog/fermi-problems">blog post by Chana Messinger&lt;/a>. There&amp;rsquo;s also a great Twitter account, publicly solving Fermi estimates every day, with the ingenious name &lt;a href="https://twitter.com/botec_horseman">BOTEC Horseman&lt;/a>.&lt;/p>
 &lt;p>Two examples:&lt;/p>
 &lt;h4 id="example-1">Example 1&lt;/h4>
