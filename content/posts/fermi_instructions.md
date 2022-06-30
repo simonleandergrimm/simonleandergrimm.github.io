@@ -1,7 +1,8 @@
 +++
 author = "Simon Grimm"
 title = "Fermi Poker - Instructions"
-date = "2022-30-06"
+date = "2022-06-30"
+publishDate = "2022-06-30"
 description = "How to play a favorite of mine"
 tags = [
     "fermi", "bayes",
@@ -10,7 +11,7 @@ tags = [
 
 
 
-I've recently discovered the joy of playing Fermi Poker, but couldn't find online instructions that I could point others to. Hence, here goes a small description. In a nutshell, Fermi poker consists of making Fermi estimates (e.g., guesses about hard but fun questions—such as ‘How many Avocadoes are produced worldwide per year”, or “How many kilometres of road are there in China”) and updating your confidence in those estimates by folding, passing or increasing your bet in the light of new evidence.
+I've recently discovered Fermi Poker, but couldn't find online instructions that I could point others to. Hence, here goes a small description. In a nutshell, Fermi poker consists of making Fermi estimates (e.g., guesses about hard but fun questions—such as ‘How many Avocadoes are produced worldwide per year”, or “How many kilometres of road are there in China”) and updating your confidence in those estimates by folding, passing or increasing your bet in the light of new evidence.
 
 If you're unfamiliar with Fermi estimates you can find a [great explainer here](https://en.wikipedia.org/wiki/Fermi_problem). In brief you try to get at order of magnitude estimates of fun questions, such as:
 
