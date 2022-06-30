@@ -8,13 +8,13 @@
 &lt;p>You need a minimum of three individuals to play, six people being optimal.&lt;/p>
 &lt;p>Before starting to play, each player needs to come up with a question (Q), an answer (A) and two hints (H1 &amp;amp; H2). The answer should be based on reputable sources, e.g., &lt;a href="https://ourworldindata.org/">Our World In Data&lt;/a>, &lt;a href="https://www.statista.com/">Statista&lt;/a>, or &lt;a href="https://wikipedia.org/">Wikipedia&lt;/a>.&lt;/p>
 &lt;p>You can find resources for good questions in this &lt;a href="https://chanamessinger.com/blog/fermi-problems">blog post by Chana Messinger&lt;/a>. There&amp;rsquo;s also a great Twitter account, publicly solving Fermi estimates every day, with the ingenious name &lt;a href="https://twitter.com/botec_horseman">BOTEC Horseman&lt;/a>.&lt;/p>
-&lt;p>Two examples:&lt;/p>
-&lt;h4 id="example-1">Example 1&lt;/h4>
+&lt;p>Here are two example questions:&lt;/p>
+&lt;h5 id="example-1---roads-in-china">Example 1 - Roads in China&lt;/h5>
 &lt;p>*Q: How many kilometres of paved roads are there in China?&lt;/p>
 &lt;p>A: 5’200’000 km&lt;/p>
 &lt;p>H1: There are 664’480 km of road in Germany.&lt;/p>
 &lt;p>H2: Vietnam has 6km of road per 1000 inhabitants. (Total Road: 570’448, Total inhabitants: 97’000’000)*&lt;/p>
-&lt;h4 id="example-2">Example 2&lt;/h4>
+&lt;h4 id="example-2---replacing-the-entire-sun-with-nuclear-power">Example 2 - Replacing the entire sun with nuclear power&lt;/h4>
 &lt;p>*Q: How many nuclear power plants, similar to &lt;a href="https://en.wikipedia.org/wiki/Hinkley_Point_C_nuclear_power_station">Hickley Point C&lt;/a> would you need to produce as much power as the sun?&lt;/p>
 &lt;p>A: 1.089375 × 10^17 nuclear power plants.&lt;/p>
 &lt;p>H1: Hickley Point C will produce 3,200,000,000 Watts.&lt;/p>
