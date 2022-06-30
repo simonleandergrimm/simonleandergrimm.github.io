@@ -12,16 +12,16 @@ tags = [
 
 I've recently discovered the joy of playing Fermi Poker, but couldn't find online instructions that I could point others to. Hence, here goes a small description. In a nutshell, Fermi poker consists of making Fermi estimates (e.g., guesses about hard but fun questions—such as ‘How many Avocadoes are produced worldwide per year”, or “How many kilometres of road are there in China”) and updating your confidence in those estimates by folding, passing or increasing your bet in the light of new evidence.
 
-If you're unfamiliar with Fermi estimates you can find a [great explainer here](https://en.wikipedia.org/wiki/Fermi_problem). In a nutshell, you try to get at order of magnitude estimates of fun questions, such as:
+If you're unfamiliar with Fermi estimates you can find a [great explainer here](https://en.wikipedia.org/wiki/Fermi_problem). In brief you try to get at order of magnitude estimates of fun questions, such as:
 
-How many bees are there on Planet Earth?
-How much water flows through all rivers in the world, per minute?
+ - How many bees are there on Planet Earth?
+ - How much water flows through all rivers in the world, per minute?
 
 ### Preparation
 
 You need a minimum of three individuals to play, six people being optimal.
 
-Before starting to play, each player needs to come up with a question (Q), an answer (A) and two hints (H1 & H2). The answer should be based on reputable sources, e.g., Our World In Data, Statista, or Wikipedia.
+Before starting to play, each player needs to come up with a question (Q), an answer (A) and two hints (H1 & H2). The answer should be based on reputable sources, e.g., [Our World In Data](https://ourworldindata.org/), [Statista](https://www.statista.com/), or [Wikipedia](https://wikipedia.org/).
 
 You can find resources for good questions in this [blog post by Chana Messinger](https://chanamessinger.com/blog/fermi-problems). There's also a great Twitter account, publicly solving Fermi estimates every day, with the ingenious name [BOTEC Horseman](https://twitter.com/botec_horseman).
 
