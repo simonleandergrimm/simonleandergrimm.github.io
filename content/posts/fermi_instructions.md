@@ -28,9 +28,9 @@ You can find resources for good questions in this [blog post by Chana Messinger]
 
 Here are two example questions:
 
-##### Example 1 - Roads in China
+#### Example 1 - Roads in China
 
-*Q: How many kilometres of paved roads are there in China?
+Q: How many kilometres of paved roads are there in China?
 
 A: 5’200’000 km
 
