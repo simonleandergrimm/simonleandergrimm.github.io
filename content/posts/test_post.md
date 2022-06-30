@@ -1,7 +1,7 @@
 +++
 author = "Simon Grimm"
 title = "A test blog post"
-date = "2020-14-02"
+date = "2022-14-02"
 description = "An initial post to test my blog"
 tags = [
     "test",
