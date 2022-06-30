@@ -25,9 +25,9 @@ Before starting to play, each player needs to come up with a question (Q), an an
 
 You can find resources for good questions in this [blog post by Chana Messinger](https://chanamessinger.com/blog/fermi-problems). There's also a great Twitter account, publicly solving Fermi estimates every day, with the ingenious name [BOTEC Horseman](https://twitter.com/botec_horseman).
 
-Two examples:
+Here are two example questions:
 
-#### Example 1
+##### Example 1 - Roads in China
 
 *Q: How many kilometres of paved roads are there in China?
 
@@ -37,7 +37,7 @@ H1: There are 664’480 km of road in Germany.
 
 H2: Vietnam has 6km of road per 1000 inhabitants. (Total Road: 570’448, Total inhabitants: 97’000’000)*
 
-#### Example 2
+#### Example 2 - Replacing the entire sun with nuclear power
 
 *Q: How many nuclear power plants, similar to [Hickley Point C](https://en.wikipedia.org/wiki/Hinkley_Point_C_nuclear_power_station) would you need to produce as much power as the sun?
 
