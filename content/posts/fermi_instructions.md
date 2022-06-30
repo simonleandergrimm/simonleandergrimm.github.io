@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-# Fermi Poker
+
 
 I've recently discovered the joy of playing Fermi Poker, but couldn't find online instructions that I could point others to. Hence, here goes a small description. In a nutshell, Fermi poker consists of making Fermi estimates (e.g., guesses about hard but fun questions—such as ‘How many Avocadoes are produced worldwide per year”, or “How many kilometres of road are there in China”) and updating your confidence in those estimates by folding, passing or increasing your bet in the light of new evidence.
 
@@ -23,29 +23,29 @@ You need a minimum of three individuals to play, six people being optimal.
 
 Before starting to play, each player needs to come up with a question (Q), an answer (A) and two hints (H1 & H2). The answer should be based on reputable sources, e.g., Our World In Data, Statista, or Wikipedia.
 
-You can find resources for good questions in this [blog post by Chana Messinger](https://chanamessinger.com/blog/fermi-problems).
+You can find resources for good questions in this [blog post by Chana Messinger](https://chanamessinger.com/blog/fermi-problems). There's also a great Twitter account, publicly solving Fermi estimates every day, with the ingenious name [BOTEC Horseman](https://twitter.com/botec_horseman).
 
 Two examples:
 
-## Example 1
+#### Example 1
 
 *Q: How many kilometres of paved roads are there in China?
 
-A: X km
+A: 5’200’000 km
 
-H1: There are X km of road in Germany.
+H1: There are 664’480 km of road in Germany.
 
-H2: In Vietnam there are X km of road per inhabitant.*
+H2: Vietnam has 6km of road per 1000 inhabitants. (Total Road: 570’448, Total inhabitants: 97’000’000)*
 
-## Example 2
+#### Example 2
 
-*Q: How many transistors were there in all iPhone 12s, sold in 2021?
+*Q: How many nuclear power plants, similar to [Hickley Point C](https://en.wikipedia.org/wiki/Hinkley_Point_C_nuclear_power_station) would you need to produce as much power as the sun?
 
-A: X transistors
+A: 1.089375 × 10^17 nuclear power plants.
 
-H1: There were X transistors in the iPhone 5, sold in 20XX
+H1: Hickley Point C will produce 3,200,000,000 Watts.
 
-H2: Global iPhone 12 sales in Europe, in 2021, were XXX*
+H2: The sun produces less than 10^30 Watts*
 
 You will also need poker chips.
 
@@ -73,9 +73,12 @@ The game then commences, until all questions were asked.
 
 ### Why should you play this
 
-**Apart from being fun**, Fermi Poker improves two skills.
 
-First, it forces one to quickly juggle and combine order of magnitude estimates. This could be useful in quickly evaluating numeric claims by others.
-Second, one learns to update one's belief in an initial estimate.
-Finally, you learn a lot of **fun facts**.
+**Apart from being fun**, Fermi Poker improves two skills:
+
+ 1. It forces one to quickly juggle and combine order of magnitude estimates. This is useful in quickly evaluating numeric claims by others.
+
+ 2. You also learn to quickly update your beliefs in the light of new evidence.
+
+Finally, you learn a lot of fun facts about the world!
 
