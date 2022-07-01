@@ -11,6 +11,7 @@ pygmentsUseClasses = true
   copyright = "Copyright © 2022 Simon Grimm"
   dark = "auto"
   highlight = true
+  plugins_css = ["font"]
 
 [menu]
   [[menu.main]]
