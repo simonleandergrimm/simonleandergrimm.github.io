@@ -9,7 +9,7 @@ pygmentsUseClasses = true
 [params]
   description = "Thoughts on progress and making this century go well; takes on everything else."
   copyright = "Copyright © 2022 Simon Grimm"
-  dark = "auto"
+  dark = "on"
   highlight = true
   plugins_css = ["font"]
 
