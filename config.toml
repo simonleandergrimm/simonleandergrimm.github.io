@@ -7,11 +7,10 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  description = "Thoughts on progress and making this century go well; takes on everything else."
+  description = "Thoughts on progress and making this century go well. Takes on everything else."
   copyright = "Copyright © 2022 Simon Grimm"
-  dark = "on"
+  dark = "off"
   highlight = true
-  plugins_css = ["font"]
 
 [menu]
   [[menu.main]]
