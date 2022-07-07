@@ -10,7 +10,7 @@
 &lt;p>Here are two example questions:&lt;/p>
 &lt;h4 id="example-1---roads-in-china">Example 1 - Roads in China&lt;/h4>
 &lt;blockquote>
-&lt;p>&lt;strong>Q&lt;/strong>: How many kilometres of paved road is there in China?&lt;/p>
+&lt;p>&lt;strong>Q&lt;/strong>: How many kilometres of paved road are there in China?&lt;/p>
 &lt;p>&lt;strong>A&lt;/strong>: There is ~5’200’000 km of paved road in china&lt;/p>
 &lt;p>&lt;strong>H1&lt;/strong>: There are 664’480 km of road in Germany.&lt;/p>
 &lt;p>&lt;strong>H2&lt;/strong>: Vietnam has 6km of road per 1000 inhabitants. (Total Road: 570’448, Total inhabitants: 97’000’000)&lt;/p>
@@ -26,10 +26,10 @@
 &lt;p>Armed with one question each and a way to allocate chips you can start playing!&lt;/p>
 &lt;hr>
 &lt;h3 id="gameplay">Gameplay&lt;/h3>
-&lt;p>One round is always based on one question. As the designed of the question knows the answer they don&amp;rsquo;t play, rather facilitating the round:&lt;/p>
+&lt;p>One round is always based on one question. As the designer of the question at play knows the answer they don&amp;rsquo;t play, instead facilitating the round:&lt;/p>
 &lt;ol>
 &lt;li>
-&lt;p>The authors poses the question. All other players come up with an answer, sending their estimate to the author, e.g., via Signal. Players are not allowed to use the internet or calculator to arrive at the answer.&lt;/p>
+&lt;p>The author poses the question. All other players come up with an answer, sending their estimate to the author, e.g., via Signal. Players are not allowed to use the internet or calculator to arrive at the answer.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Going counter-clockwise, the first player always gives a small blind (e.g., 25), the second player gives a big blind (e.g., 50). Following this, players can bet as much as they want, having to match the highest bet just like in normal poker.&lt;/p>
@@ -56,7 +56,7 @@
 &lt;p>&lt;strong>Apart from being fun&lt;/strong>, Fermi Poker improves two skills:&lt;/p>
 &lt;ol>
 &lt;li>
-&lt;p>It forces one to quickly juggle and combine order of magnitude estimates. This is useful in quickly evaluating numeric claims by others.&lt;/p>
+&lt;p>It forces one to quickly juggle and combine order of magnitude estimates. This is useful in quickly evaluating numeric claims by others and allows you to track the plausiblity of others&amp;rsquo; statements, as expalined here by &lt;a href="https://nabeelqu.co/advice#:~:text=Basically%2C%20if%20you,It%E2%80%99s%20not%20close.">Sam Bankman-Fried&lt;/a>.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>You also learn to quickly update your beliefs in the light of new evidence.&lt;/p>
