@@ -32,7 +32,7 @@ Here are two example questions:
 
 #### Example 1 - Roads in China
 
-> **Q**: How many kilometres of paved road is there in China?
+> **Q**: How many kilometres of paved road are there in China?
 >
 > **A**: There is  ~5’200’000 km of paved road in china
 >
@@ -59,9 +59,9 @@ _____________
 
 ### Gameplay
 
-One round is always based on one question. As the designed of the question knows the answer they don't play, rather facilitating the round:
+One round is always based on one question. As the designer of the question at play knows the answer they don't play, instead facilitating the round:
 
- 1. The authors poses the question. All other players come up with an answer, sending their estimate to the author, e.g., via Signal. Players are not allowed to use the internet or calculator to arrive at the answer.
+ 1. The author poses the question. All other players come up with an answer, sending their estimate to the author, e.g., via Signal. Players are not allowed to use the internet or calculator to arrive at the answer.
 
  2. Going counter-clockwise, the first player always gives a small blind (e.g., 25), the second player gives a big blind (e.g., 50). Following this, players can bet as much as they want, having to match the highest bet just like in normal poker.
 
@@ -84,7 +84,7 @@ _____________
 
 **Apart from being fun**, Fermi Poker improves two skills:
 
- 1. It forces one to quickly juggle and combine order of magnitude estimates. This is useful in quickly evaluating numeric claims by others.
+ 1. It forces one to quickly juggle and combine order of magnitude estimates. This is useful in quickly evaluating numeric claims by others and allows you to track the plausiblity of others' statements, as expalined here by [Sam Bankman-Fried](https://nabeelqu.co/advice#:~:text=Basically%2C%20if%20you,It%E2%80%99s%20not%20close.).
 
  2. You also learn to quickly update your beliefs in the light of new evidence.
 
