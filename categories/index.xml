@@ -1,28 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Simon Grimm</title><link>https://simongrimm.com/categories/</link><description>Recent content in Categories on Simon Grimm</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><atom:link href="https://simongrimm.com/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Fermi Poker - Instructions</title><link>https://simongrimm.com/fermi-poker-instructions/</link><pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate><guid>https://simongrimm.com/fermi-poker-instructions/</guid><description>&lt;p>I&amp;rsquo;ve recently discovered Fermi Poker, but couldn&amp;rsquo;t find online instructions that I could point others to. Hence, here goes a small description. In a nutshell, Fermi poker consists of making Fermi estimates (e.g., guesses about hard but fun questions—such as ‘How many Avocadoes are produced worldwide per year”, or “How many kilometres of road are there in China”) and updating your confidence in those estimates by folding, passing or increasing your bet in the light of new evidence.&lt;/p>
-&lt;p>If you&amp;rsquo;re unfamiliar with Fermi estimates you can find a &lt;a href="https://en.wikipedia.org/wiki/Fermi_problem">great explainer here&lt;/a>. In brief you try to get at order of magnitude estimates of fun questions, such as:&lt;/p>
-&lt;ul>
-&lt;li>How many bees are there on Planet Earth?&lt;/li>
-&lt;li>How much water flows through all rivers in the world, per minute?&lt;/li>
-&lt;/ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Simon Grimm</title><link>https://simongrimm.com/categories/</link><description>Recent content in Categories on Simon Grimm</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><atom:link href="https://simongrimm.com/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Fermi Poker - Instructions</title><link>https://simongrimm.com/fermi-poker-instructions/</link><pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate><guid>https://simongrimm.com/fermi-poker-instructions/</guid><description>&lt;p>I&amp;rsquo;ve recently discovered Fermi Poker, but couldn&amp;rsquo;t find online instructions that I could point others to. Hence, here goes a small description. In a nutshell, Fermi poker consists of making and updating Fermi estimates, that is, guesses about hard but fun questions—such as ‘How many Avocadoes are produced worldwide per year”, or &amp;ldquo;How many litres of water are there on Planet Earth?&amp;rdquo;.&lt;/p>
+&lt;p>(Many litres in fact)&lt;/p>
+&lt;img src="https://simongrimm.com/earth.jpg" alt="A picture of the earth." class="img-responsive" style="vertical-align:middle;margin:0px 0px">
+&lt;p>If you&amp;rsquo;re unfamiliar with how to arrive at Fermi estimates you can find a &lt;a href="https://en.wikipedia.org/wiki/Fermi_problem">great explainer here&lt;/a>.&lt;/p>
+&lt;hr>
 &lt;h3 id="preparation">Preparation&lt;/h3>
 &lt;p>You need a minimum of three individuals to play, six people being optimal.&lt;/p>
-&lt;p>Before starting to play, each player needs to come up with a question (Q), an answer (A) and two hints (H1 &amp;amp; H2). The answer should be based on reputable sources, e.g., &lt;a href="https://ourworldindata.org/">Our World In Data&lt;/a>, &lt;a href="https://www.statista.com/">Statista&lt;/a>, or &lt;a href="https://wikipedia.org/">Wikipedia&lt;/a>.&lt;/p>
+&lt;p>Before starting to play, each player needs to come up with a question (&lt;strong>Q&lt;/strong>), an answer (&lt;strong>A&lt;/strong>) and two hints (&lt;strong>H1&lt;/strong> &amp;amp; &lt;strong>H2&lt;/strong>). The answer should be based on reputable sources, e.g., &lt;a href="https://ourworldindata.org/">Our World In Data&lt;/a>, &lt;a href="https://www.statista.com/">Statista&lt;/a>, or &lt;a href="https://wikipedia.org/">Wikipedia&lt;/a>.&lt;/p>
 &lt;p>You can find resources for good questions in this &lt;a href="https://chanamessinger.com/blog/fermi-problems">blog post by Chana Messinger&lt;/a>. There&amp;rsquo;s also a great Twitter account, publicly solving Fermi estimates every day, with the ingenious name &lt;a href="https://twitter.com/botec_horseman">BOTEC Horseman&lt;/a>.&lt;/p>
 &lt;p>Here are two example questions:&lt;/p>
 &lt;h4 id="example-1---roads-in-china">Example 1 - Roads in China&lt;/h4>
-&lt;p>Q: How many kilometres of paved roads are there in China?&lt;/p>
-&lt;p>A: 5’200’000 km&lt;/p>
-&lt;p>H1: There are 664’480 km of road in Germany.&lt;/p>
-&lt;p>H2: Vietnam has 6km of road per 1000 inhabitants. (Total Road: 570’448, Total inhabitants: 97’000’000)*&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>Q&lt;/strong>: How many kilometres of paved road is there in China?&lt;/p>
+&lt;p>&lt;strong>A&lt;/strong>: There is ~5’200’000 km of paved road in china&lt;/p>
+&lt;p>&lt;strong>H1&lt;/strong>: There are 664’480 km of road in Germany.&lt;/p>
+&lt;p>&lt;strong>H2&lt;/strong>: Vietnam has 6km of road per 1000 inhabitants. (Total Road: 570’448, Total inhabitants: 97’000’000)&lt;/p>
+&lt;/blockquote>
 &lt;h4 id="example-2---replacing-the-entire-sun-with-nuclear-power">Example 2 - Replacing the entire sun with nuclear power&lt;/h4>
-&lt;p>Q: How many nuclear power plants, similar to &lt;a href="https://en.wikipedia.org/wiki/Hinkley_Point_C_nuclear_power_station">Hickley Point C&lt;/a> would you need to produce as much power as the sun?&lt;/p>
-&lt;p>A: 1.089375 × 10^17 nuclear power plants.&lt;/p>
-&lt;p>H1: Hickley Point C will produce 3,200,000,000 Watts.&lt;/p>
-&lt;p>H2: The sun produces less than 10^30 Watts&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>Q&lt;/strong>: How many nuclear power plants, similar to &lt;a href="https://en.wikipedia.org/wiki/Hinkley_Point_C_nuclear_power_station">Hickley Point C&lt;/a> would you need to produce as much power as the sun?&lt;/p>
+&lt;p>&lt;strong>A&lt;/strong>: You would require 1.089375 × 10^17 nuclear power plants.&lt;/p>
+&lt;p>&lt;strong>H1&lt;/strong>: Hickley Point C will produce 3,200,000,000 Watts.&lt;/p>
+&lt;p>&lt;strong>H2&lt;/strong>: The sun produces &amp;lt; 10^30 Watts.&lt;/p>
+&lt;/blockquote>
 &lt;p>Lastly, you will also need poker chips, in the absence of physical chips you can use &lt;a href="https://pokerchips.io/">this website&lt;/a>.&lt;/p>
 &lt;p>Armed with one question each and a way to allocate chips you can start playing!&lt;/p>
+&lt;hr>
 &lt;h3 id="gameplay">Gameplay&lt;/h3>
-&lt;p>One round is always based on one question. The question&amp;rsquo;s author doesn&amp;rsquo;t play. From then on, a round commences as follows:&lt;/p>
+&lt;p>One round is always based on one question. As the designed of the question knows the answer they don&amp;rsquo;t play, rather facilitating the round:&lt;/p>
 &lt;ol>
 &lt;li>
 &lt;p>The authors poses the question. All other players come up with an answer, sending their estimate to the author, e.g., via Signal. Players are not allowed to use the internet or calculator to arrive at the answer.&lt;/p>
@@ -47,7 +51,8 @@
 &lt;/li>
 &lt;/ol>
 &lt;p>The game then commences, until all questions were asked.&lt;/p>
-&lt;h3 id="why-should-you-play-this">Why should you play this&lt;/h3>
+&lt;hr>
+&lt;h3 id="why-should-you-play-this">Why should you play this?&lt;/h3>
 &lt;p>&lt;strong>Apart from being fun&lt;/strong>, Fermi Poker improves two skills:&lt;/p>
 &lt;ol>
 &lt;li>
