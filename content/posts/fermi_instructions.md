@@ -11,10 +11,11 @@ tags = [
 
 I've recently discovered Fermi Poker, but couldn't find online instructions that I could point others to. Hence, here goes a small description. In a nutshell, Fermi poker consists of making and updating Fermi estimates, that is, guesses about hard but fun questions—such as ‘How many Avocadoes are produced worldwide per year”, or "How many litres of water are there on Planet Earth?".
 
-(Many litres in fact)
+
 
 <img src="/earth.jpg" alt="A picture of the earth." class="img-responsive" style="vertical-align:middle;margin:0px 0px">
 
+(Many litres in fact)
 
 If you're unfamiliar with how to arrive at Fermi estimates you can find a [great explainer here](https://en.wikipedia.org/wiki/Fermi_problem).
 
@@ -50,10 +51,7 @@ Here are two example questions:
 >
 >**H2**: The sun produces < 10^30 Watts.
 
-
-Lastly, you will also need poker chips, in the absence of physical chips you can use [this website](https://pokerchips.io/).
-
-Armed with one question each and a way to allocate chips you can start playing!
+With these questions ready, we can play Poker! In the absence of physical chips you can use [this website](https://pokerchips.io/).
 
 _____________
 
