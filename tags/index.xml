@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Simon Grimm</title><link>https://simongrimm.com/tags/</link><description>Recent content in Tags on Simon Grimm</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://simongrimm.com/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Fermi Poker - Instructions</title><link>https://simongrimm.com/fermi-poker-instructions/</link><pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate><guid>https://simongrimm.com/fermi-poker-instructions/</guid><description>&lt;p>I&amp;rsquo;ve recently discovered Fermi Poker, but couldn&amp;rsquo;t find online instructions that I could point others to. Hence, here goes a small description. In a nutshell, Fermi poker consists of making and updating Fermi estimates, that is, guesses about hard but fun questions—such as ‘How many Avocadoes are produced worldwide per year”, or &amp;ldquo;How many litres of water are there on Planet Earth?&amp;rdquo;.&lt;/p>
-&lt;p>(Many litres in fact)&lt;/p>
 &lt;img src="https://simongrimm.com/earth.jpg" alt="A picture of the earth." class="img-responsive" style="vertical-align:middle;margin:0px 0px">
+&lt;p>(Many litres in fact)&lt;/p>
 &lt;p>If you&amp;rsquo;re unfamiliar with how to arrive at Fermi estimates you can find a &lt;a href="https://en.wikipedia.org/wiki/Fermi_problem">great explainer here&lt;/a>.&lt;/p>
 &lt;hr>
 &lt;h3 id="preparation">Preparation&lt;/h3>
@@ -22,8 +22,7 @@
 &lt;p>&lt;strong>H1&lt;/strong>: Hickley Point C will produce 3,200,000,000 Watts.&lt;/p>
 &lt;p>&lt;strong>H2&lt;/strong>: The sun produces &amp;lt; 10^30 Watts.&lt;/p>
 &lt;/blockquote>
-&lt;p>Lastly, you will also need poker chips, in the absence of physical chips you can use &lt;a href="https://pokerchips.io/">this website&lt;/a>.&lt;/p>
-&lt;p>Armed with one question each and a way to allocate chips you can start playing!&lt;/p>
+&lt;p>With these questions ready, we can play Poker! In the absence of physical chips you can use &lt;a href="https://pokerchips.io/">this website&lt;/a>.&lt;/p>
 &lt;hr>
 &lt;h3 id="gameplay">Gameplay&lt;/h3>
 &lt;p>One round is always based on one question. As the designer of the question at play knows the answer they don&amp;rsquo;t play, instead facilitating the round:&lt;/p>
