@@ -82,7 +82,7 @@ _____________
 
 **Apart from being fun**, Fermi Poker improves two skills:
 
- 1. It forces one to quickly juggle and combine order of magnitude estimates. This is useful in quickly evaluating numeric claims by others and allows you to track the plausiblity of others' statements, as expalined here by [Sam Bankman-Fried](https://nabeelqu.co/advice#:~:text=Basically%2C%20if%20you,It%E2%80%99s%20not%20close.).
+ 1. It forces one to quickly juggle and combine order of magnitude estimates. This is useful in quickly evaluating numeric claims by others and allows you to track the plausiblity of others' statements, as explained here by [Sam Bankman-Fried](https://nabeelqu.co/advice#:~:text=Basically%2C%20if%20you,It%E2%80%99s%20not%20close.).
 
  2. You also learn to quickly update your beliefs in the light of new evidence.
 
